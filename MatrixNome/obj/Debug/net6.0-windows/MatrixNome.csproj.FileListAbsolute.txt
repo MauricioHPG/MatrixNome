@@ -1,0 +1,36 @@
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.Form1.resources
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.Properties.Resources.resources
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.csproj.GenerateResource.cache
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.exe
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.deps.json
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.runtimeconfig.json
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.dll
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.dll
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\refint\MatrixNome.dll
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.pdb
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Área de Trabalho\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\ref\MatrixNome.dll
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.exe
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.deps.json
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.runtimeconfig.json
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.dll
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\ref\MatrixNome.dll
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\bin\Debug\net6.0-windows\MatrixNome.pdb
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.csproj.AssemblyReference.cache
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.Form1.resources
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.Properties.Resources.resources
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.csproj.GenerateResource.cache
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.AssemblyInfoInputs.cache
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.AssemblyInfo.cs
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.dll
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\ref\MatrixNome.dll
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.pdb
+C:\Users\mauricio.ojunior1\Desktop\MatrixNome\MatrixNome\obj\Debug\net6.0-windows\MatrixNome.genruntimeconfig.cache
